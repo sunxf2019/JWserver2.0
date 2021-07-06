@@ -1,0 +1,1 @@
+{"user_name": "DX", "user_password": "", "user_ip": "172.16.15.13", "user_port": 50281, "file_name": "userdb.db3", "file_num": 1, "file_size": 32768, "CMD": "$DX$down$", "UserServer": ["172.16.15.13", 50281], "MainServerTrueAdd": ["172.16.15.13", 20032], "MainServerTempAdd": ["172.16.15.13", 50280]}

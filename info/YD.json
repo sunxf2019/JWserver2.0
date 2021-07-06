@@ -1,0 +1,1 @@
+{"user_name": "YD", "user_password": "123", "user_ip": "172.16.15.13", "user_port": 52603, "file_name": "userdb.db3", "file_num": 1, "file_size": 32768, "CMD": "$YD$down$", "UserServer": ["172.16.15.13", 52603], "MainServerTrueAdd": ["172.16.15.13", 20032], "MainServerTempAdd": ["172.16.15.13", 52602]}
